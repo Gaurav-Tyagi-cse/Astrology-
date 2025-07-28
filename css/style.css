@@ -5673,3 +5673,12 @@ p a {
             .video_modal_content { width: 95%; margin: 10% auto; }
             .video_modal iframe { height: 250px; }
         }
+
+
+        .ast_vedic_astro_info p{
+           color: white !important;
+        }
+
+        .ast_vedic_astro_info h5, h4{
+            color: #F4C430 !important;
+        }
