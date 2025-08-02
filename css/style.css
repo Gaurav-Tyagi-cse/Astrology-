@@ -5658,8 +5658,8 @@ p a {
 
         .close_modal {
             position: absolute;
-            top: -40px;
-            right: 0;
+            /* top: -40px; */
+            right: 10px;
             color: #fff;
             font-size: 30px;
             cursor: pointer;
