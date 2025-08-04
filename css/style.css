@@ -342,7 +342,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 .ast_logo{
     float: left;
     width: 100%;
-    padding: 16px 0px;
+    padding: 3px 0px;
 }
 .ast_menu {
     float: left;
@@ -2205,7 +2205,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	background-size: cover;
 	color:#ffffff;
 	padding:200px 0px 100px 0px;
-	background-image: url(../images/Services_Image/Corporate_Service\ banner.webp);
+	/* background-image: url(../images/Services_Image/Corporate_Service\ banner.webp); */
     background-position: center center;
 	background-repeat: no-repeat;
 	text-align:center;
@@ -4071,6 +4071,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 /*----------- karishma css -----------*/
 .ast_header_bottom{
 	position:absolute;
+    background-color: #000;
 }
 .ast_header_bottom.menu_fixed{
 	position:fixed;
