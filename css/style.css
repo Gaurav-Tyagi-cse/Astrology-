@@ -4071,7 +4071,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 /*----------- karishma css -----------*/
 .ast_header_bottom{
 	position:absolute;
-    background-color: #000;
+    background-color:#00000087;
 }
 .ast_header_bottom.menu_fixed{
 	position:fixed;
