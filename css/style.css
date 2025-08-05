@@ -75,7 +75,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: 'Philosopher', sans-serif;
 	font-weight: 600;
 	line-height: 1.1;
-	color: #F4C430;
+	/* color: #F4C430; */
+    color: #222222;
 }
 img {
 	max-width: 100%;
@@ -2217,6 +2218,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	margin:0px;
 	font-size:36px;
 	text-transform:capitalize;
+    background-color: #00000066;
 	}
 .ast_pagetitle .breadcrumb {
     display:inline-block;
@@ -2226,7 +2228,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 .ast_pagetitle ul.breadcrumb {
 	margin:0px;
 	padding:0px;
-	background-color: transparent;
+	background-color: #0000007d;
 }
 .ast_pagetitle ul.breadcrumb  li{
     display: inline-block;
@@ -5681,5 +5683,5 @@ p a {
         }
 
         .ast_vedic_astro_info h5, h4{
-            color: #F4C430 !important;
+            /* color: #F4C430 !important; */
         }
