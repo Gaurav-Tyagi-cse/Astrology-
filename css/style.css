@@ -4638,7 +4638,7 @@ li.ast_search , li.ast_cart{
 .woocommerce_billing .form-group {
     margin: 10px 0;
 }
-/*--- shop single page css start ---*/
+/*--- Book page css start ---*/
 .ast_proSingle_wrapper{
 	width:100%;
 	float:left;
@@ -5684,4 +5684,11 @@ p a {
 
         .ast_vedic_astro_info h5, h4{
             /* color: #F4C430 !important; */
+        }
+
+
+        /*  */
+
+        .ast_product_image img{
+            height: 176px;
         }
