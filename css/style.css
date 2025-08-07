@@ -2197,20 +2197,24 @@ input:focus, textarea:focus, select:focus, button:focus {
 }
 /*---------- Footer Wrapper css end -------*/
 /*----Breadcrumb Start-----------*/
-.ast_pagetitle{
-	float: left;
-	width: 100%;
-	background-color: #272727;
-	position:relative;
-	background-attachment:fixed;
-	background-size: cover;
-	color:#ffffff;
-	padding:200px 0px 100px 0px;
-	/* background-image: url(../images/Services_Image/Corporate_Service\ banner.webp); */
+.ast_pagetitle {
+    width: 100%;
+    background-color: #272727;
+    position: relative;
+    background-attachment: fixed;
+    background-size: cover;
     background-position: center center;
-	background-repeat: no-repeat;
-	text-align:center;
-	}
+    background-repeat: no-repeat;
+    color: #ffffff;
+    padding: 120px 0; /* Adjust padding if needed */
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh; /* Ensures full height of viewport */
+    box-sizing: border-box;
+}
+
 .page_title h2{
 	float:left;
 	width:100%;
